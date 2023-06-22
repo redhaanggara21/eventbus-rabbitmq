@@ -1,2 +1,1 @@
 # eventbus-rabbitmq
-# eventbus-rabbitmq
